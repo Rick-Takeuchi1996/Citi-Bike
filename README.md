@@ -7,7 +7,7 @@ Our objective is to conduct an in-depth examination, revealing significant trend
 # Data Set
 I've taken the Data Set from [Kaggle](https://www.kaggle.com/datasets/ryanmcummings/citi-bike-data). The data set contains information about NYCitiBike's stations location as well as trip durations, cutomer gender and age and more.
 
-I also took a NYC Zip-Code GeoJSON from GitHub (https://github.com/fedhere/PUI2015_EC/blob/master/mam1612_EC/nyc-zip-code-tabulation-areas-polygons.geojson). 
+I also took a [NYC Zip-Code GeoJSON from GitHub](https://github.com/fedhere/PUI2015_EC/blob/master/mam1612_EC/nyc-zip-code-tabulation-areas-polygons.geojson). 
 
 # Folders
 The Citi Bike analysis was separated into the following folders:
@@ -16,4 +16,4 @@ The Citi Bike analysis was separated into the following folders:
 Contains the Project Brief Data: Separated into Original and Prepared Data. These contain the original data frames and the data frames after they have been cleaned and prepared for analysis respectively. Scripts: Contains all the Python coding involved for the entire analysis process Analysis: Contains the Visualizations used for developing insights
 
 # Visualizations
-All the visualizations and some of the analysis can be found on Tableau Public server - Citi Bike Analysis
+All the visualizations and some of the analysis can be found on [Tableau Public server - Citi Bike Analysis](https://public.tableau.com/app/profile/rick.takeuchi/viz/CitiBike_17021434370850/Story1?publish=yes).
